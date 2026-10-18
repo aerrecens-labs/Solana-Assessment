@@ -58,7 +58,6 @@ _research/
 
 # --- SYSTEM & EDITORS ---
 /_research/
-.vscode/*
 !.vscode/extensions.json
 .idea/
 .DS_Store
